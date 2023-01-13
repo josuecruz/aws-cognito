@@ -1,5 +1,5 @@
 {
-  "name": "pmill/aws-cognito",
+  "name": "josuecruz/aws-cognito",
   "description": "A PHP client for AWS Cognito user pools",
   "keywords": ["php", "authentication", "aws", "cognito", "api"],
   "homepage": "https://github.com/pmill/aws-cognito",
